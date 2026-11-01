@@ -22,8 +22,8 @@ wheels/
 .mypy_cache/
 .ruff_cache/
 
-# Editors / OS (keep shared VS Code settings)
-.vscode/*
-!.vscode/settings.json
+# Editors / OS
+.vscode/
 .idea/
 .DS_Store
+
